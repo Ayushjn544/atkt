@@ -1,11 +1,1 @@
-
-Hello world !!!	
-
-This is my first attempt at working on git using source tree and github.
-<<<<<<< HEAD
-aj
-hi nepu kesa h
-welcome rds
-=======
-aj
->>>>>>> parent of bb67826... vsdflvvlfsdn
+welcome all of u
