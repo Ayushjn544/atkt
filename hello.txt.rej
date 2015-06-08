@@ -1,0 +1,7 @@
+diff a/hello.txt b/hello.txt	(rejected hunks)
+@@ -1,4 +0,4 @@
+-
++hi friends
+ Hello world !!!
+ 
+ This is my first attempt at working on git using source tree and github.
